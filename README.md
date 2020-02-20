@@ -13,7 +13,7 @@ The backend of the captions application has already been created for you. All yo
 **Note:** All the user features are presented as endpoints by the API, so you have to use your initiative and creativity to represent them in your web application.
 
 ## Tools
-- Clien side Framework: ***React/Redux***
+- Client side Framework: ***React/Redux***
 - Linting: ***ESLint***
 - Style Guide: ***Airbnb***
 - Testing: ***Jest***
@@ -24,7 +24,7 @@ The backend of the captions application has already been created for you. All yo
 2. Your props/types and states should be properly defined.
 3. Responsive web design for different screens (mobile/tablet/pc)
 3. Host code on Github repository, with a well detailed readme.
-4. Host the API on netlify/heroku.
+4. Host the app on netlify/heroku.
 5. Use appropriate modals, loaders and spinners for better user interaction.
 
 
@@ -37,8 +37,8 @@ The backend of the captions application has already been created for you. All yo
 
 ## Guide
 ### Design
-Below is a simple designs to get you started on what the project look should be. 
-**Note:** this is only a guide, as you are expected to use your initative and imagination.
+Below is a simple designs to get you started on what the project look can be. 
+**Note:** this is only a guide, as you are free to use your initative and imagination.
 
 <img width="1212" alt="Screenshot 2020-02-20 at 22 18 57" src="https://user-images.githubusercontent.com/60140805/74979630-4a010b80-542f-11ea-94f6-95311d91a407.png">
 
