@@ -38,7 +38,7 @@ The backend of the captions application has already been created for you. All yo
 
 ## Guide
 ### Design
-Below is a simple designs to get you started on what the project look can be. 
+Below is a simple design to get you started on what the project look can be. 
 **Note:** this is only a guide, as you are free to use your initative and imagination.
 
 <img width="1212" alt="Screenshot 2020-02-20 at 22 18 57" src="https://user-images.githubusercontent.com/60140805/74979630-4a010b80-542f-11ea-94f6-95311d91a407.png">
