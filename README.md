@@ -20,12 +20,13 @@ The backend of the captions application has already been created for you. All yo
 - Hosting: ***Netlify/Heroku***
 
 ## Requirements
-1. Take care to correctly structure your redux containers/reducers in a readable format
-2. Your props/types and states should be properly defined.
-3. Responsive web design for different screens (mobile/tablet/pc)
-3. Host code on Github repository, with a well detailed readme.
-4. Host the app on netlify/heroku.
-5. Use appropriate modals, loaders and spinners for better user interaction.
+1. Consume up to 6 server endpoints in inventive ways (any of your choosing)
+2. Take care to correctly structure your redux containers/reducers in a readable format
+3. Your props/types and states should be properly defined.
+4. Responsive web design for different screens (mobile/tablet/pc)
+5. Host code on Github repository, with a well detailed readme.
+6. Host the app on netlify/heroku.
+7. Use appropriate modals, loaders and spinners for better user interaction.
 
 
 ## Stand out
