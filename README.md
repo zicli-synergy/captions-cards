@@ -3,7 +3,7 @@
 **Caption Cards** is a simple captions application. You are required to develop the frontend web application showcasing captions on cards. 
 You can fork this git repository and get to work!
 
-**Due Date:** 6 days after Test email receipt (Usually places due date on Friday, at noon).
+**Due Date:** 6 days after Test email receipt.
 
 ## **API Documentation**
 The backend of the captions application has already been created for you. All you have to do is consume it to the best of your abilities in your frontend application.
